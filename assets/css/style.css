@@ -191,7 +191,8 @@ h6 {
 }
 
 #header .logo img {
-  max-height: 40px;
+  max-height: 70px;
+  padding-right: 10px;
 }
 
 .scrolled-offset {
