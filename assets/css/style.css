@@ -461,8 +461,8 @@ h6 {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  height: 75vh;
-  background: url("../img/Logos/fondo-3.png") top left;
+  height: 85vh;
+  background: url("../img/Logos/hero-bg.jpg") top left;
   background-size: cover;
   position: relative;
 }
